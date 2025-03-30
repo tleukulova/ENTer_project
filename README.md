@@ -8,7 +8,7 @@
 *-Progress Analytics – Users can track weak areas and focus on improvement.*  
 *-Gamification – Points, achievements, and leaderboards to boost motivation.*   
 *-Video Lessons – High-quality lectures from teachers for better understanding.* 
-*-University and Career Recommendations – Based on scores, the app suggests suitable universities and study programs.*
+*-University Recommendations – Based on scores, the app suggests suitable universities and study programs.*
 *-Parent Dashboard – Allows parents to track their child’s progress and set study goals.*      
 
 ***Website Overview 🌟***
