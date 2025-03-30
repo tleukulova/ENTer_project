@@ -1,4 +1,4 @@
-ENTer - "Entering a new stage of life!"
+#ENTer - "Entering a new stage of life!"
 
 ENTer is an intelligent mobile application designed for UNT preparation, leveraging AI and modern educational technologies. Our platform helps students prepare efficiently through personalized tasks, progress analytics, and video lessons.
 
