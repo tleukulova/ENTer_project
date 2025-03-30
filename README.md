@@ -4,12 +4,12 @@
 
 ***Key Features 🚀***
  
-*-AI Tutor – A chatbot that explains complex topics and helps with error analysis. 🧠*
-*-Progress Analytics – Users can track weak areas and focus on improvement.📊*  
-*-Gamification – Points, achievements, and leaderboards to boost motivation.📝*   
-*-Video Lessons – High-quality lectures from teachers for better understanding.🤖* 
-*-University and Career Recommendations – Based on scores, the app suggests suitable universities and study programs.🏛️*
-*-Parent Dashboard – Allows parents to track their child’s progress and set study goals.💬*      
+*-AI Tutor – A chatbot that explains complex topics and helps with error analysis.*
+*-Progress Analytics – Users can track weak areas and focus on improvement.*  
+*-Gamification – Points, achievements, and leaderboards to boost motivation.*   
+*-Video Lessons – High-quality lectures from teachers for better understanding.* 
+*-University and Career Recommendations – Based on scores, the app suggests suitable universities and study programs.*
+*-Parent Dashboard – Allows parents to track their child’s progress and set study goals.*      
 
 ***Website Overview 🌟***
 
@@ -64,7 +64,7 @@
 
 Clone the repository
 
-git clone https://github.com/your_project/enter.git
+git clone https://github.com/tleukulova/ENTer_project
 cd enter
 
 Install dependencies
